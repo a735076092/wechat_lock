@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# 打包产物
+build/
+dist/
+*.spec
+*.exe
+*.bak
+build_old_*/
+
+# 运行时生成
+wechat_lock_config.json
+exetest.txt
+
+# 调试脚本（开发过程产物）
+debug_windows.py
+debug2.py
+debug3.py
